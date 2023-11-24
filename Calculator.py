@@ -57,3 +57,4 @@ for symbol in operations.keys():
             num1 = float(input("Enter the first number: "))
             # Prompt the user to enter the second number
             num2 = float(input("Enter the second number: "))
+
